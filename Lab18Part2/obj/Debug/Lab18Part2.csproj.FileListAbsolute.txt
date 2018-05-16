@@ -1,0 +1,7 @@
+c:\users\maggie\source\repos\Lab18Part2\Lab18Part2\bin\Debug\Lab18Part2.exe.config
+c:\users\maggie\source\repos\Lab18Part2\Lab18Part2\bin\Debug\Lab18Part2.exe
+c:\users\maggie\source\repos\Lab18Part2\Lab18Part2\bin\Debug\Lab18Part2.pdb
+c:\users\maggie\source\repos\Lab18Part2\Lab18Part2\obj\Debug\Lab18Part2.csprojResolveAssemblyReference.cache
+c:\users\maggie\source\repos\Lab18Part2\Lab18Part2\obj\Debug\Lab18Part2.csproj.CoreCompileInputs.cache
+c:\users\maggie\source\repos\Lab18Part2\Lab18Part2\obj\Debug\Lab18Part2.exe
+c:\users\maggie\source\repos\Lab18Part2\Lab18Part2\obj\Debug\Lab18Part2.pdb
